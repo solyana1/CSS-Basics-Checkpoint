@@ -1,0 +1,49 @@
+body {
+  font-size: 14px;
+}
+/* all content */
+nav {
+  background color: yellow;
+  height: 100px;
+  margin-top: -10px;
+  position: fixed;
+  width: 100%;
+}
+/*navigation bar*/
+
+section {
+  margin: 0 auto;
+  padding-top: 100px;
+  width: 60%;
+}
+/* main section */
+
+h1 {
+  font-family: sans-serif;
+  font-size: 2em;
+}
+
+h1.example {
+  padding-top: 30px;
+  text-align: center;
+}
+
+h3 {
+  font-size: 1.3em;
+}
+
+div.element {
+  background-color: green;
+  height: 100px;
+  margin: 10px 0;
+  width: 100%;
+}
+/* first 6 sections of the body */
+
+div.color-change {
+   background-color: blue;
+   height: 100px;
+   margin: 10px 0;
+   width: 100%;
+}
+/* last 3 sections of the body */
